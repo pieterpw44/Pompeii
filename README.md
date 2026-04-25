@@ -1,5 +1,5 @@
 # Pompeii
-A Text Adventure Game by BlakMamaba Studio
+A Text Adventure Game by Blackmamba Studio
 ## Description
 Pompeii is a text adventure game. There are no fancy graphics. All gameplay is conducted via the command line. This may seem quite backwards in today's market of AAA titles full of violence, blood and guts. However there is still a place for these types of games. If nothing else it serves as a fantastic springboard for further game developemnt using graphics. By removing the complexity of the graphical representation of the gameworld and characters, it allows the developer to concentrate on the programming aspects. The use of classes/objects and the structure of the project can now come to the forefront of the development process.
 
